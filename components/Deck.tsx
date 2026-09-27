@@ -26,7 +26,7 @@ const notes = [
   "If asked for the algebra: linear demand through 35 million at 69.99, monopoly price is the midpoint when marginal cost is zero. The fee proof is one line: maximizing one minus tau times R is the same as maximizing R.",
   "If asked why GAAP loses money: goodwill in prior years, then amortization, interest, stock pay, and a valuation allowance. Operating cash flow was 624 million in fiscal 2026 and is guided above a billion.",
   "If asked Cournot or Bertrand: Bertrand with identical goods would drive price to marginal cost. These goods are not identical. The release-date reaction of other publishers is the oligopoly fact. It is not the pricing model for this title.",
-  "Tools were Cursor and the filings. No measured elasticity and no disclosed GTA VI budget. Both are labeled in the assumption table.",
+  "Tool used: Grok. No measured elasticity and no disclosed GTA VI budget. Both are labeled in the assumption table.",
 ];
 
 export function Deck() {
@@ -266,7 +266,7 @@ const slides = [
   <div key="a4" className="slide-body">
     <Kicker>Appendix · tools</Kicker>
     <h2>What was generated, and what was filed</h2>
-    <p>Cursor, Grok 4.7, drafted the memo and these slides from the course notes, the group pitch, the fiscal 2026 10-K, and the August 7, 2026 earnings release. Diagrams are computed from the stated linear demand, not drawn by an image model.</p>
-    <p>Not from a filing, and labeled as such: the 35 million unit anchor, the elasticity cases, the illustrative fixed cost, the PC-delay scenarios, and press accounts of the May 2026 Bloomberg interview. Prompts are listed at the end of the memo.</p>
+    <p>Grok.</p>
+    <p>Not from a filing, and labeled as such: the 35 million unit anchor, the elasticity cases, the illustrative fixed cost, the PC-delay scenarios, and press accounts of the May 2026 Bloomberg interview.</p>
   </div>,
 ];

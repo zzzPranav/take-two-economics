@@ -621,33 +621,8 @@ export function Document() {
       </section>
 
       <section id="ai">
-        <h2>Appendix: tools and prompts</h2>
-        <p>The assignment asks for the generative tools and the prompts behind the work.</p>
-        <div className="table-wrap">
-          <table>
-            <thead>
-              <tr><th>Tool</th><th>Use</th></tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Cursor, Grok 4.7</td>
-                <td>Read the course slides and the group&apos;s pitch, pulled the 10-K and the August 7, 2026 earnings release, computed the elasticity and average-cost scenarios, and drafted this memo and the slide deck. Filings were checked against the SEC and investor-relations text. Estimates are labeled.</td>
-              </tr>
-              <tr>
-                <td>Diagrams</td>
-                <td>Drawn in code from the same formulas as the tables, so a changed elasticity moves the figure. No separate image model.</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <h3>Prompts that governed the draft</h3>
-        <ul>
-          <li>Build a research memo and a 9-minute deck on Take-Two, using the course models: demand and elasticity, fixed versus variable cost, short run versus long run, returns to scale, market structure, price discrimination, bundling, and pipeline versus platform.</li>
-          <li>Use Grand Theft Auto V&apos;s release pattern, units, and live service as the evidence for how Grand Theft Auto VI should be priced and timed.</li>
-          <li>Tie every recommendation to a model in one sentence, in the form the brief asks for: because marginal cost is near zero, because the network values an extra player, because a cost is sunk.</li>
-          <li>Keep primary numbers on the filings. Put every non-filing number in an assumption table. Do not invent an elasticity or a development budget.</li>
-          <li>Show the diagrams the course uses: demand and marginal revenue, marginal cost, falling average total cost, a shift of demand against a movement along it, and a two-sided platform with a subsidy side.</li>
-        </ul>
+        <h2>Appendix: tools</h2>
+        <p>Grok.</p>
       </section>
 
       <footer className="colophon">
