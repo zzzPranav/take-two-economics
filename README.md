@@ -4,7 +4,7 @@ An economics research memo and a 9-minute slide deck on Take-Two Interactive, us
 
 The memo applies the course models directly: demand and elasticity, fixed and variable cost, sunk cost, returns to scale, monopoly and oligopoly, price discrimination, bundling, and pipeline versus platform. Figures from the fiscal 2026 Form 10-K and the August 7, 2026 earnings release are separated from the scenarios. The elasticity and average-cost diagrams are computed from those scenarios, and the memo’s lab lets you move the assumptions.
 
-The hosted memo is at [https://zzzpranav.github.io/take-two-economics/](https://zzzpranav.github.io/take-two-economics/). The deck is at [https://zzzpranav.github.io/take-two-economics/present/](https://zzzpranav.github.io/take-two-economics/present/).
+The hosted memo is at [https://zzzpranav.github.io/take-two-economics/](https://zzzpranav.github.io/take-two-economics/). The deck is at [https://zzzpranav.github.io/take-two-economics/present/](https://zzzpranav.github.io/take-two-economics/present/). The PowerPoint file is [Take-Two-GTA-VI.pptx](https://zzzpranav.github.io/take-two-economics/Take-Two-GTA-VI.pptx).
 
 ## Run it locally
 

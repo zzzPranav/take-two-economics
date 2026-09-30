@@ -11,6 +11,7 @@ export default function Home() {
             Research memo
           </Link>
           <Link href="/present">Slide deck</Link>
+          <Link href="/Take-Two-GTA-VI.pptx">PowerPoint</Link>
         </nav>
       </header>
       <Document />

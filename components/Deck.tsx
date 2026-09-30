@@ -75,6 +75,7 @@ export function Deck() {
     <div className="stage">
       <div className="stage-bar">
         <Link href="/">Research memo</Link>
+        <Link href="/Take-Two-GTA-VI.pptx">PowerPoint</Link>
         <div className="jump">
           <button type="button" onClick={() => go(index - 1)}>Previous</button>
           <span>{index + 1} / {count}</span>
